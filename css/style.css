@@ -93,19 +93,6 @@ aside {
 	display: none;
 }
 
-/* FOOTER */
-
-/* LICENCE */
-#licence {
-    display: block;
-    text-align: center;
-    padding: 25px;
-}
-
-#licence img {
-    width: 50px;
-}
-
 /* VERSION TABLETTE */
 @media screen and (min-width: 768px) {
 	section, aside {
